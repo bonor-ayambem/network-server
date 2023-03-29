@@ -17,7 +17,7 @@ If you agree with the above, type your full name in the following space along wi
 Write your name and date between the lines below
 
 ---------------------------------------------
-Bonor Ayambem 5/11/2022
+
 ---------------------------------------------
 
 ## Exam Prelude
